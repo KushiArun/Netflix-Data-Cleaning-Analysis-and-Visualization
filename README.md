@@ -79,7 +79,7 @@ Visualizations created and saved:
 ## 📊 Example Visuals
 
 ### 🎭 Top Genres
-![Top Genres](top_genres.png) <img width="800" height="500" alt="top_genres" src="https://github.com/user-attachments/assets/cf0cabff-85f3-487b-a516-d63e91c6909a" />
+![Top Genres](top_genres.png) 
 
 
 ### 📺 Type Distribution
